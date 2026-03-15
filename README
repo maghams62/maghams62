@@ -4,57 +4,73 @@ Hi, I'm Siddharth. I'm an applied ML engineer with ~7 years of experience, mostl
 
 # 🚀 Things I've Built
 
-## 🧠 Cerebro OS
-A Mac automation system that acts like a smarter version of Siri or Raycast. The idea is to let the system understand vague intent and orchestrate actions across apps.
+### 🧠 Cerebro OS
+A Mac automation system that acts like a smarter version of Siri or Raycast. It understands vague intent and orchestrates actions across apps.
 
-[Demo](https://www.youtube.com/watch?v=g9PY_HKNFp0) | [Product Spec](https://pollen-dibble-3dc.notion.site/Cerebro-OS-2c420c415bfc8004ae86e49f4e99154d?pvs=73)
+▶️ **Watch Demo**  
+https://www.youtube.com/watch?v=g9PY_HKNFp0
 
----
-
-## 📰 Cerebros News
-A news app that surfaces multiple perspectives on the same story and highlights gaps, bias, and missing context so readers can understand how narratives form around events.
-
-[Repo](https://github.com/maghams62/CerebrosNews) | [Demo](https://www.youtube.com/watch?v=iRPYEIBlUDA)
+📄 **Product Spec**  
+https://pollen-dibble-3dc.notion.site/Cerebro-OS-2c420c415bfc8004ae86e49f4e99154d?pvs=73
 
 ---
 
-## 🌐 Event Capture
+### 📰 Cerebros News
+A news app that surfaces multiple perspectives on the same story and highlights bias, missing context, and narrative gaps.
+
+📦 **Repository**  
+https://github.com/maghams62/CerebrosNews
+
+▶️ **Watch Demo**  
+https://www.youtube.com/watch?v=iRPYEIBlUDA
+
+---
+
+### 🌐 Event Capture
 A Chrome plugin for collecting browsing interaction data to help teach a bot how to crawl and understand the web.
 
-[Repo](https://github.com/jclymo/event-capture)
+📦 **Repository**  
+https://github.com/jclymo/event-capture
 
 ---
 
-## 🧾 Doc Extractor
-A pipeline for extracting structured information from documents (such as passports and immigration forms) and converting them into data that can automatically fill workflows.
+### 🧾 Doc Extractor
+A pipeline for extracting structured information from documents (passports, immigration forms, etc.) and converting them into structured workflows.
 
-[Repo](https://github.com/maghams62/doc-extractor)
-
----
-
-## 🎵 TikTok News
-An experiment in presenting news in a swipeable, TikTok-style interface for faster discovery and consumption with verification.
-
-[Repo](https://github.com/maghams62/TikTokNews)
+📦 **Repository**  
+https://github.com/maghams62/doc-extractor
 
 ---
 
-## 🧪 SimPulse
-In the era of LLM-driven virality, SimPulse simulates how content might perform before it goes live. Think of it as a CMO's test bench for marketing experiments.
+### 🎵 TikTok News
+An experiment in presenting news in a swipeable TikTok-style interface for faster discovery and consumption with verification.
 
-[Project Link](https://www.linkedin.com/feed/update/urn:li:activity:7396687470685405185/)
+📦 **Repository**  
+https://github.com/maghams62/TikTokNews
 
 ---
 
-## ⚽ Auto FPL
+### 🧪 SimPulse
+In the era of LLM-driven virality, SimPulse simulates how content might perform before it goes live — think of it as a **CMO's test bench** for marketing experiments.
+
+🔗 **Project Link**  
+https://www.linkedin.com/feed/update/urn:li:activity:7396687470685405185/
+
+---
+
+### ⚽ Auto FPL
 A cloud system that automatically manages my Fantasy Premier League team by evaluating player stats, fixtures, and performance signals.
 
 ---
 
-## 💰 Cerebros Fund
+### 💰 Cerebros Fund
 An experiment in structuring community-driven investment insights into something that can be queried and reasoned about.
 
-[Demo](https://www.youtube.com/watch?v=4sqc9aZtPtA) | [Live App](https://web-alpha-weld-93.vercel.app/cerebrosfund)
+▶️ **Watch Demo**  
+https://www.youtube.com/watch?v=4sqc9aZtPtA
+
+🌐 **Live App**  
+https://web-alpha-weld-93.vercel.app/cerebrosfund
 
 ---
 
